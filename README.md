@@ -29,7 +29,7 @@ Complete calculator suites covering multiple project types.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
-
+- [BuildCalc](https://buildcalc-c16f.onrender.com/) - Free bilingual (English and Spanish) construction calculators for concrete, paint, and flooring, with metric and imperial units, waste allowance, and step-by-step results.
 ## Concrete & Masonry
 
 Calculate volumes, bag counts, and costs for concrete and masonry projects.
