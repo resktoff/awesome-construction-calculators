@@ -25,6 +25,7 @@ Maintained by [HowMuchStuff](https://howmuchstuff.com) — free materials and qu
 
 Complete calculator suites covering multiple project types.
 
+-  [BuildCalc](https://buildcalc-c16f.onrender.com/) - Free bilingual (English and Spanish) construction calculators for concrete, paint, and flooring, with metric and imperial units, waste allowance, and step-by-step results.
 - [HowMuchStuff](https://howmuchstuff.com) - 82 free calculators across 11 categories including concrete, landscaping, painting, flooring, roofing, and more. Instant results with local pricing.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
